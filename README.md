@@ -13,4 +13,4 @@ Koneru Dharma Teja with help from w3 schools and UC Berkley Extension.
 3. Voila there you go. 
 
 # Page Preview
-<p align="center"><img width=12.5% src="https://github.com/koneruteja/koneruteja.github.io/blob/master/assets/images/01-html-css-git-homework-demo.png"></p>
+<p align="center"><img width=100% src="https://github.com/koneruteja/koneruteja.github.io/blob/master/assets/images/01-html-css-git-homework-demo.png"></p>
